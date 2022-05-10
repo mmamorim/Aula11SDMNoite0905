@@ -63,7 +63,7 @@ export default {
 
         reqDELETE(id) {
             console.log(id);
-            api.delete("filme", id, function (data) {
+            api.delete("filmes", id, function (data) {
                 console.log(data);
             })
         },

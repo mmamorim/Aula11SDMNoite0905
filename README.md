@@ -1,13 +1,15 @@
 # Aula 11 SDM Noite 09/05
 
-**Versão Stack Completa**
+**Versão Stack Completa acessando MONGO DB**
+
+`não esqueça de iniciar o mongo!`
 
 1. - Abrir terminal (git bash) em uma pasta    
     - clonar o repositório nesta pasta local por meio do comando: 
      
     exemplo para clonar este repositório:
 
-    `git clone https://github.com/mmamorim/Aula09SDMNoite2504.git`
+    `git clone https://github.com/mmamorim/Aula11SDMNoite0905.git`
 
 2. Abrir a pasta com o VSCode
 
